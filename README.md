@@ -5,8 +5,8 @@ Imersão Python - Análise de Dados
 
 Este repositório contém os materiais e projetos desenvolvidos durante a Imersão Python da Alura, focada em análise de dados. Durante o curso, explorei diversas ferramentas e técnicas para manipulação, visualização e análise de dados utilizando a linguagem Python.
 
-Ferramentas Utilizadas
-Google Sheets
+Ferramentas Utilizadas \n
+Google Sheets \n
 Google Colab
 Pandas
 Matplotlib
